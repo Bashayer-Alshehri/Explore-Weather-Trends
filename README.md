@@ -10,8 +10,8 @@ This project was completed as part of Udacity's Data Analyst Nanodegree certific
 - Make observations about the similarities and differences between the world average temeprature with the local average temperature.
 
 # Tools Used
-SQL
-Excel
+- SQL
+- Excel
 
 # Submission
 - How to calcualte Moving Averages?
