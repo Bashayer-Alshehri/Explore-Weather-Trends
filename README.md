@@ -1,4 +1,5 @@
 # Explore-Weather-Trends Project
+Bashayer Alshehri (27 Apr 2020)
 
 This project aims to create visualization and description of the similarities and differences between global temperature trends and temperature trends in the local city. (Saudi Arabia - Riyadh).
 
