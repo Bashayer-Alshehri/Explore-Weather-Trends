@@ -1,8 +1,7 @@
 # Explore-Weather-Trends Project
-Bashayer Alshehri (27 Apr 2020)
+> Bashayer Alshehri (27 Apr 2020)
 
-This project aims to create visualization and description of the similarities and differences between global temperature trends and temperature trends in the local city. (Saudi Arabia - Riyadh).
-
+Exploring Weather Trends is the first project in Data Analysis nanodegree program. The goal of this project is to create visualization and write up describing the similarities and differences between global temperature trends and temperature trends in the big city to the local city. 
 This project was completed as part of Udacity's Data Analyst Nanodegree certification.
 
 # Steps
